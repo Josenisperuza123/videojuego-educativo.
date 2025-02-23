@@ -23,3 +23,4 @@ El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
 [PLATAFORMAS]. Además, se implementarán características como
 [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
 juego fluida y atractiva.
+
